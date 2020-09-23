@@ -1,0 +1,21 @@
+C:\Users\Lucas\source\repos\Programação computadores\bin\Debug\Programação computadores.exe.config
+C:\Users\Lucas\source\repos\Programação computadores\bin\Debug\Programação computadores.exe
+C:\Users\Lucas\source\repos\Programação computadores\bin\Debug\Programação computadores.pdb
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação computadores.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação_computadores.Form1.resources
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação_computadores.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação computadores.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação computadores.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação computadores.exe
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação computadores.pdb
+C:\Users\Lucas\source\repos\Programação computadores\obj\Debug\Programação_computadores.Form2.resources
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\bin\Debug\Programação computadores.exe.config
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\bin\Debug\Programação computadores.exe
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\bin\Debug\Programação computadores.pdb
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação computadores.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação_computadores.Form1.resources
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação_computadores.Properties.Resources.resources
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação computadores.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação computadores.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação computadores.exe
+C:\Users\Lucas\Documents\CURSO ENGENHARIA DE SOFTWARE\2 semestre\Programação de computadores\1 bimestre\Programação computadores prova\obj\Debug\Programação computadores.pdb
